@@ -21,7 +21,7 @@
     "@babel/polyfill": "^7.7.0",
     "@babel/preset-env": "^7.7.1",
     "@yeanzhi/postcss-advanced-variables": "^3.0.3",
-    "acorn": "^7.1.0",
+    "acorn": "^7.1.1",
     "acorn-dynamic-import": "^4.0.0",
     "autoprefixer": "^9.7.2",
     "axios": "^0.19.0",
