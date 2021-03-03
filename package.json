@@ -45,7 +45,7 @@
     "postcss-scss": "^2.0.0",
     "postcss-svgo": "^4.0.2",
     "promptly": "^3.0.3",
-    "pug": "^2.0.4",
+    "pug": "^3.0.1",
     "pug-loader": "^2.4.0",
     "pug-plain-loader": "^1.0.0",
     "request": "^2.88.0",
